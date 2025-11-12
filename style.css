@@ -4,12 +4,17 @@
     color: #ffffff;
 }
 
+a {
+    font-size: 10px;
+}
+
 h1 {
 
 }
 
 #heading {
     display: flex;
+    align-items: center;
     height: 100px;
     background-color: #6543a0;
 }
