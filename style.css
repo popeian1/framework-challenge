@@ -19,7 +19,6 @@ ul li {
 
 #heading {
     display: flex;
-    align-items: left;
     height: 100px;
     background-color: #6543a0;
 }
