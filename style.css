@@ -1,9 +1,23 @@
 * {
     margin: 0;
     padding: 0;
+    color: #ffffff;
+}
+
+h1 {
+
 }
 
 #heading {
+    display: flex;
     height: 100px;
     background-color: #6543a0;
+}
+
+#navheader {
+
+}
+
+#navfooter {
+
 }
