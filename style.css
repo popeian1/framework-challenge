@@ -24,7 +24,7 @@ ul li {
 }
 
 #navheader {
-
+    display: flex;
 }
 
 #navfooter {
