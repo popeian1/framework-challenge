@@ -12,6 +12,10 @@ h1 {
 
 }
 
+ul li {
+  float: left;
+}
+
 #heading {
     display: flex;
     align-items: center;
