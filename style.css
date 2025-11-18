@@ -9,6 +9,7 @@ a {
     font-size: 10px;
     margin: 0 10px 0 10px;
     color: #ffffff;
+    text-align: center;
 }
 
 a:hover {
@@ -35,7 +36,7 @@ ul li {
 
 #navheader {
     display: flex;
-    align-items: right;
+    align-content: center;
 }
 
 #navfooter {
