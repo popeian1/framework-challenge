@@ -12,20 +12,8 @@ a {
     text-align: center;
 }
 
-a:hover {
-    color: #e4cb97;
-}
-
 a:link, a:visited {
     text-decoration: none;
-}
-
-h1 {
-
-}
-
-ul li {
-  float: right;
 }
 
 #heading {
@@ -37,8 +25,4 @@ ul li {
 #navheader {
     display: flex;
     align-content: center;
-}
-
-#navfooter {
-
 }
