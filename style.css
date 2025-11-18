@@ -30,6 +30,7 @@ ul li {
 #heading {
     height: 100px;
     background-color: #6543a0;
+    align-items: center;
 }
 
 #navheader {
