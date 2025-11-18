@@ -8,13 +8,14 @@
 a {
     font-size: 10px;
     margin: 0 10px 0 10px;
+    color: #ffffff;
 }
 
 a:hover {
     color: #e4cb97;
 }
 
-a:visited {
+a:link, a:visited {
     text-decoration: none;
 }
 
