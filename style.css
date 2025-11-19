@@ -7,11 +7,11 @@
 
 a:hover {
     color: #ffcc00;
-    text-decoration: underline;
+    text-decoration: double;
 }
 
 a {
-    font-size: 10px;
+    font-size: 32px;
     margin: 0 10px 0 10px;
     color: #ffffff;
     text-align: center;
